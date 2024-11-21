@@ -32,6 +32,13 @@ Copy code
 python jarvis.py
 Speak the wake word "Jarvis" to activate, then give your commands.
 
+## How to Use requirements.txt
+Save the content to a file named requirements.txt.
+Install the dependencies by running the following:
+bash
+Copy code
+pip install -r requirements.txt
+
 ## Future Enhancements
 Add more websites to the command list.
 Enable dynamic song search from online libraries.
