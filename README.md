@@ -19,7 +19,7 @@ Jarvis is a Python-based virtual assistant capable of handling voice commands to
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Jarvis-Virtual-Assistant.git
+   git clone https://github.com/umarlhepk/Jarvis-Virtual-Assistant.git
 
 
 ## Add your API keys:
@@ -27,17 +27,17 @@ Replace YOUR_NEWS_API_KEY and YOUR_OPENAI_API_KEY in the code.
 
 ## Usage
 # Run the script:
-bash
-Copy code
-python jarvis.py
+
+  python jarvis.py
+
 Speak the wake word "Jarvis" to activate, then give your commands.
 
 ## How to Use requirements.txt
 Save the content to a file named requirements.txt.
-Install the dependencies by running the following:
-bash
-Copy code
-pip install -r requirements.txt
+Install the dependencies by running the following
+
+ pip install -r requirements.txt
+
 
 ## Future Enhancements
 Add more websites to the command list.
